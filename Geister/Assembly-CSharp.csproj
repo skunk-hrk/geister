@@ -61,7 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GameSceneManager.cs" />
+    <Compile Include="Assets\Scripts\Ghost.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerManager.cs" />
+    <Compile Include="Assets\Scripts\ResultManager.cs" />
     <Compile Include="Assets\Scripts\TopManager.cs" />
     <Compile Include="Assets\Scripts\UserDataManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
